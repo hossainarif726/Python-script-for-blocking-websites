@@ -10,13 +10,14 @@
 * Python Idle
 
 ## How_To
-* On Linux
+* On Linux:
 
 1) In line 17 of the code,change the time as required
 2) set host_path = /etc/hosts
 3) Then schedule the task at start up
 
-* On Mac
+
+* On Mac:
 
 1) In line 17 of the code,change the time as required
 2) set host_path = /private/etc/hosts
